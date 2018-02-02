@@ -18,7 +18,7 @@
                   <div class="row">
                     <div class="col-md-12">
                           <div class="footer-logo">
-                            <img src="{{asset('assets/img/satudatablbw.png')}}" alt="">
+                            <img src="{{asset('assets/img/icon/satudatablbw.png')}}" alt="">
                           </div>
 
                           <span class="copy-text">Copyright &copy; 2018 <a href="#">KanekesMaterializeLaravel v.0.1</a> &nbsp; | &nbsp;  All Rights Reserved &nbsp; | &nbsp;  With Love by <a href="#">Bantenprov</a></span>
